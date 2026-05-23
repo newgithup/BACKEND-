@@ -16,7 +16,7 @@ connectDB();
 
 // CORS Configuration
 const allowedOrigins = [
-  'https://dashboard-apk-production.up.railway.app',
+  'https://dashboard-production-b759.up.railway.app',
   'http://localhost:3000',
   'http://localhost:5173'
 ];
